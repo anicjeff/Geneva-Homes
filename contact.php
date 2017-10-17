@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <?php include("includes/nav.php"); ?>
       <main class="mdl-layout__content">
         <div class="site-content">
@@ -7,7 +6,7 @@
               <div class="mdl-card__title">
                 <h1 class="mdl-card__title-text"></h1>
              </div>
-              <div class="mdl-card__media"><img class="article-image" src="img/contactus.png" border="0" alt="Contact">
+              <div class="mdl-card__media"><img class="article-image" src="./img/contactus.png" border="0" alt="Contact">
               </div>
               <div class="mdl-grid site-copy">
                 <div class="mdl-cell mdl-cell--12-col"><div class="mdl-card__supporting-text">
