@@ -5,7 +5,7 @@
             <div class="mdl-cell mdl-cell--12-col mdl-card mdl-shadow--4dp page-content">
               <div class="mdl-card__title">
                 </div>
-              <div class="mdl-card__media"><img class="article-image" src="../img/snowhead.png" border="0" alt="Portfolio Page">
+              <div class="mdl-card__media"><img class="article-image" src="../img/smithhead.png" border="0" alt="Portfolio Page">
               </div>
               <div class="mdl-grid site-copy">
                 <div class="mdl-cell mdl-cell--12-col"><p><h3 class="mdl-cell mdl-cell--12-col mdl-typography--headline">Introduction</h3></p>
@@ -43,5 +43,4 @@
 </div>
 </div>
 </div>
-
 <?php include("../includes/footer.php"); ?>
