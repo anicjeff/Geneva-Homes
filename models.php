@@ -15,42 +15,42 @@
               </div>
 
     <div class="mdl-cell mdl-cell--6-col mdl-card mdl-shadow--4dp portfolio-card-page">
-        <div class="mdl-card__media"><img class="article-image" src="img/sb1.jpg" border="0" alt=""></div>
-        <div class="mdl-card__title"><h2 class="mdl-card__title-text">The Snowbird.</h2></div>
+        <div class="mdl-card__media"><img class="article-image" src="img/models/snowbirdtitle.jpg" border="0" alt=""></div>
+        <div class="mdl-card__title"><h2 class="mdl-card__title-text">The Snowbird</h2></div>
         <div class="mdl-card__supporting-text">Enim labore aliqua consequat ut quis ad occaecat aliquip incididunt. Sunt nulla eu enim irure enim nostrud aliqua consectetur ad consectetur sunt ullamco officia. Ex officia laborum et consequat duis.</div>
         <div class="mdl-card__actions mdl-card--border">
-          <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" href="portfolio-page.html">
+          <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" href="models/snowbird.php">
             Learn More
           </a>
         </div>
     </div>
     <div class="mdl-cell mdl-cell--6-col mdl-card mdl-shadow--4dp portfolio-card-page">
-        <div class="mdl-card__media"><img class="article-image" src="img/sb1.jpg" border="0" alt=""></div>
-        <div class="mdl-card__title"><h2 class="mdl-card__title-text">Lorem ipsum.</h2></div>
+        <div class="mdl-card__media"><img class="article-image" src="img/models/thesmithtitle.jpg" border="0" alt=""></div>
+        <div class="mdl-card__title"><h2 class="mdl-card__title-text">The Smith</h2></div>
         <div class="mdl-card__supporting-text">Enim labore aliqua consequat ut quis ad occaecat aliquip incididunt. Sunt nulla eu enim irure enim nostrud aliqua consectetur ad consectetur sunt ullamco officia. Ex officia laborum et consequat duis.</div>
         <div class="mdl-card__actions mdl-card--border">
-          <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" href="portfolio-page.html">
+          <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" href="models/smith.php">
             Learn More
           </a>
         </div>
     </div>
     <div class="mdl-cell mdl-cell--6-col mdl-card mdl-shadow--4dp portfolio-card-page">
-        <div class="mdl-card__media"><img class="article-image" src="img/sb1.jpg" border="0" alt=""></div>
-        <div class="mdl-card__title"><h2 class="mdl-card__title-text">Lorem ipsum.</h2></div>
+        <div class="mdl-card__media"><img class="article-image" src="img/models/bojczuktitile.jpg" border="0" alt=""></div>
+        <div class="mdl-card__title"><h2 class="mdl-card__title-text">The Bojczuk</h2></div>
         <div class="mdl-card__supporting-text">Enim labore aliqua consequat ut quis ad occaecat aliquip incididunt. Sunt nulla eu enim irure enim nostrud aliqua consectetur ad consectetur sunt ullamco officia. Ex officia laborum et consequat duis.</div>
         <div class="mdl-card__actions mdl-card--border">
-          <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" href="portfolio-page.html">
+          <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" href="models/bojczuk.php">
             Learn More
           </a>
         </div>
     </div>
 
     <div class="mdl-cell mdl-cell--6-col mdl-card mdl-shadow--4dp portfolio-card-page">
-        <div class="mdl-card__media"><img class="article-image" src="img/sb1.jpg" border="0" alt=""></div>
-        <div class="mdl-card__title"><h2 class="mdl-card__title-text">Lorem ipsum.</h2></div>
+        <div class="mdl-card__media"><img class="article-image" src="img/models/tottentitle.jpg" border="0" alt=""></div>
+        <div class="mdl-card__title"><h2 class="mdl-card__title-text">The Totten.</h2></div>
         <div class="mdl-card__supporting-text">Enim labore aliqua consequat ut quis ad occaecat aliquip incididunt. Sunt nulla eu enim irure enim nostrud aliqua consectetur ad consectetur sunt ullamco officia. Ex officia laborum et consequat duis.</div>
         <div class="mdl-card__actions mdl-card--border">
-          <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" href="portfolio-page.html">
+          <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" href="models/totten.php">
             Learn More
           </a>
         </div>

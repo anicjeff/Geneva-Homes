@@ -217,8 +217,9 @@ img {
 }
 
 img.article-image {
-  width: 100%;
-  height: auto;
+    max-width: 100%;
+    height: auto;
+    display: block;
 }
 
 .demo-card-image.mdl-card {
@@ -343,5 +344,5 @@ padding-left: 45px;
 }
 
 .portfolio-card-page {
-    
+
 }
