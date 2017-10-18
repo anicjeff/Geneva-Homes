@@ -1,47 +1,77 @@
 <?php include("../includes/modelsnav.php"); ?>
-      <main class="mdl-layout__content">
-        <div class="site-content">
-          <div class="mdl-grid site-max-width">
+<main class="mdl-layout__content">
+    <div class="site-content">
+        <div class="mdl-grid site-max-width">
             <div class="mdl-cell mdl-cell--12-col mdl-card mdl-shadow--4dp page-content">
-              <div class="mdl-card__title">
+                <div class="mdl-card__title">
                 </div>
-              <div class="mdl-card__media"><img class="article-image" src="../img/snowhead.png" border="0" alt="Portfolio Page">
-              </div>
-              <div class="mdl-grid site-copy">
-                <div class="mdl-cell mdl-cell--12-col"><p><h3 class="mdl-cell mdl-cell--12-col mdl-typography--headline">Introduction</h3></p>
-<div class="mdl-cell mdl-cell--10-col mdl-card__supporting-text no-padding ">
-    <p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
-    <p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>
-</div>
+                <div class="mdl-card__media"><img class="article-image" src="../img/snowhead.png" border="0" alt="Portfolio Page">
+                </div>
+                <div class="mdl-grid site-copy">
+                    <div class="mdl-cell mdl-cell--12-col"><p><h3 class="mdl-cell mdl-cell--12-col mdl-typography--headline">The Snowbird</h3></p>
+                        <div class="mdl-grid">
+                            <div class="mdl-cell mdl-cell--9-col mdl-card__supporting-text no-padding ">
+                                <div class="mdl-grid">
+                                    <div class="mdl-cell mdl-cell--4-col lighcell">
+                                        <a href="#img1">
+                                            <img src="../img/models/snowbird/sb1.jpg" class="thumbnail">
+                                        </a>
+                                        <a href="#_" class="lightbox" id="img1">
+                                            <img src="../img/models/snowbird/sb1.jpg">
+                                        </a>
+                                    </div>
+                                    <div class="mdl-cell mdl-cell--4-col">
+                                        <a href="#img2">
+                                            <img src="../img/models/snowbird/sb2.jpg" class="thumbnail">
+                                        </a>
+                                        <a href="#_" class="lightbox" id="img2">
+                                            <img src="../img/models/snowbird/sb2.jpg">
+                                        </a>
+                                    </div>
+                                    <div class="mdl-cell mdl-cell--4-col">
+                                        <a href="#img3">
+                                            <img src="../img/models/snowbird/sb3.jpg" class="thumbnail">
+                                        </a>
+                                        <a href="#_" class="lightbox" id="img3">
+                                            <img src="../img/models/snowbird/sb3.jpg">
+                                        </a>
+                                    </div>
+                                    <div class="mdl-cell mdl-cell--4-col">
+                                        <a href="#img4">
+                                            <img src="../img/models/snowbird/sb4.jpg" class="thumbnail">
+                                        </a>
+                                        <a href="#_" class="lightbox" id="img4">
+                                            <img src="../img/models/snowbird/sb4.jpg">
+                                        </a>
+                                    </div>
+                                    <div class="mdl-cell mdl-cell--4-col">
+                                        <a href="#img5">
+                                            <img src="../img/models/snowbird/sb5.jpg" class="thumbnail">
+                                        </a>
+                                        <a href="#_" class="lightbox" id="img5">
+                                            <img src="../img/models/snowbird/sb5.jpg">
+                                        </a>
+                                    </div>
+                                    <div class="mdl-cell mdl-cell--4-col">
+                                        <a href="#img6">
+                                            <img src="../img/models/snowbird/sb6.jpg" class="thumbnail">
+                                        </a>
+                                        <a href="#_" class="lightbox" id="img6">
+                                            <img src="../img/models/snowbird/sb6.jpg">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="mdl-cell mdl-cell--3-col mdl-card__supporting-text no-padding ">
+                                <p>4 Bed 2 Bath</p>
+                                <p>28′ x 52′</p>
+                                <p>1387 sq ft</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
-
-<div class="mdl-grid">
-<h3 class="mdl-cell mdl-cell--12-col mdl-typography--headline">Design</h3>
-<div class="mdl-cell mdl-cell--6-col mdl-card__supporting-text no-padding ">
-    <p>
-        Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
-    </p>
-</div>
-  <div class="mdl-cell mdl-cell--6-col">
-      <img class="article-image" src="img/portfolio4.jpg" border="0" alt="">
-  </div>
-</div>
-
-<div class="mdl-grid">
-  <h3 class="mdl-cell mdl-cell--12-col mdl-typography--headline">Product</h3>
-  <div class="mdl-cell mdl-cell--9-col mdl-card__supporting-text no-padding ">
-      <p>
-          Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
-      </p>
-  </div>
-  <div class="mdl-cell mdl-cell--3-col mdl-card__supporting-text no-padding ">
-      <a class="mdl-button mdl-button--raised mdl-js-button mdl-js-ripple-effect mdl-button--accent" href="#">View<span class="mdl-button__ripple-container"><span class="mdl-ripple"></span></span></a>
-  </div>
-</div>
-</div>
-              </div>
-</div>
-</div>
-</div>
-
-<?php include("../includes/footer.php"); ?>
+    <?php include("../includes/footer.php"); ?>
