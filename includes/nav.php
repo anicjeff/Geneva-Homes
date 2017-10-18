@@ -18,7 +18,7 @@
 
     </head>
     <body id="top">
-        <div class="layout-bg mdl-layout mdl-layout--fixed-header mdl-js-layout"><a href="contact.html" id="contact-button" class="hover-btn mdl-button mdl-button--fab mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color-text--accent-contrast mdl-shadow--4dp"><i class="material-icons">mail</i></a>
+        <div class="layout-bg mdl-layout mdl-layout--fixed-header mdl-js-layout"><a href="contact.php" id="contact-button" class="hover-btn mdl-button mdl-button--fab mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color-text--accent-contrast mdl-shadow--4dp"><i class="material-icons">mail</i></a>
             <header class="mdl-layout__header mdl-layout__header--transparent mdl-layout__header--waterfall mdl-layout__header--waterfall-hide-top site-header">
                 <div class="mdl-layout__header-row site-logo-row logorow">
                     <span class="mdl-layout__title">
