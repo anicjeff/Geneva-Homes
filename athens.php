@@ -13,7 +13,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="mdl-card__media"><img class="article-image" src="./img/lotmodels.png" border="0" alt="Contact"></div>
+                <div class="mdl-card__media"><img class="article-image" src="./img/athenshead.png" border="0" alt="Contact"></div>
                 <div class="mdl-cell mdl-card mdl-shadow--4dp portfolio-card">
                     <div class="mdl-card__media">
                         <img class="article-image" src="img/portfolio1.jpg" border="0" alt="">
