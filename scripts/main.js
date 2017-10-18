@@ -15,6 +15,15 @@ jQuery(document).ready(function($){
     if ( path == '' ) {
         path = 'index.php';
     }
+    if ( path == 'titan.php' ) {
+        path = 'models.php';
+    }
+    if ( path == 'athens.php' ) {
+        path = 'models.php';
+    }
+    if ( path == 'redman.php' ) {
+        path = 'models.php';
+    }
     var target = $('nav a[href="'+path+'"]');
     target.addClass('is-active');
 });

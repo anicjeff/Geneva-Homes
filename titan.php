@@ -4,8 +4,8 @@
           <div class="container"><div class="mdl-grid site-max-width">
               <div class="mdl-cell mdl-cell--12-col"><div class="mdl-tabs mdl-js-tabs mdl-js-ripple-effect">
                   <div class="mdl-tabs__tab-bar">
-                      <a href="models.php" class="mdl-tabs__tab is-active">lot models</a>
-                      <a href="titan.php" class="mdl-tabs__tab">Titan Homes</a>
+                      <a href="models.php" class="mdl-tabs__tab">lot models</a>
+                      <a href="titan.php" class="mdl-tabs__tab is-active">Titan Homes</a>
                       <a href="athens.php" class="mdl-tabs__tab">Athens Homes</a>
                       <a href="redman.php" class="mdl-tabs__tab">Redman  Homes</a>
                   </div>
