@@ -32,7 +32,7 @@
                 <div class="darken mdl-layout__header-row site-navigation-row mdl-layout--large-screen-only">
                     <nav class="mdl-navigation mdl-typography--body-1-force-preferred-font">
                         <a class="mdl-navigation__link" href="index.php">Home</a>
-                        <a class="mdl-navigation__link" href="models.html">Model Homes</a>
+                        <a class="mdl-navigation__link" href="models.php">Model Homes</a>
                         <a class="mdl-navigation__link" href="parts.html">Parts & Service</a>
                         <a class="mdl-navigation__link" href="about.html">About</a>
                         <a class="mdl-navigation__link" href="contact.php">Contact</a>
